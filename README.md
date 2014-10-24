@@ -46,3 +46,8 @@ League of Real Heroes is a session-based game. Matchmaking creates teams with ev
 **League of Real Heroes Store** allows players to purchase additional options through "Gamerscoin" (GMC) and "Influence Gold" (IG). Gamerscoin must be bought using real money or you can start mining our own Gamerscoins, while Influence Gold are earned by playing the game.
 
 
+###A list of contributors (add yourself if you want to):
+
+- [Johngame](https://github.com/johngame) (Project lead)
+- [Gamerscoin](https://github.com/gamers-coin) (Project Sponsor)
+- [Your Name Here](http://gamers-coin.org) (???)
