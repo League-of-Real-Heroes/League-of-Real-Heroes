@@ -1,9 +1,9 @@
 League of Real Heroes
 =====================
 
-![Gamerscoin](https://raw.githubusercontent.com/gamers-coin/gamers-coinv3/01d1ca6d63b565ea46dcee3b6552b030d57d1187/src/qt/res/icons/bitcoin.png)![Gamerscoin](http://i.imgur.com/Nfb8DQx.png)
+![Gamerscoin](https://raw.githubusercontent.com/gamers-coin/gamers-coinv3/01d1ca6d63b565ea46dcee3b6552b030d57d1187/src/qt/res/icons/bitcoin.png)![Gamerscoin](http://i.imgur.com/Nfb8DQx.png)![Gamerscoin](http://www.paralogicmedia.com/projects/MochiUnityBridge/img/mochi_unity3d_logo.png)
 
-Project supported by Game4commit Get paid to contribute to a project :
+Project supported by Game4commit **Get paid to contribute to League of Real Heroes** :
 [![tip for next commit](http://game4commit.gamers-coin.org/projects/7.svg)](http://game4commit.gamers-coin.org/projects/7)
 
 ###League of Real Heroes (Multi Player Open Source Action-RTS)
